@@ -17,7 +17,7 @@ The insert each frame with 480 samples(10 ms), we can train the model and obtain
 ![alt text](img/56.jpg)
 
 The result of the trained model is given below
-![image](img/5.jpg)
+[image](img/5.jpg)
 
 All the examples are shown with the two test data in the folder. 
 test.wav is a female speaker saying "Don't ask me to carry an oily rug like that."
