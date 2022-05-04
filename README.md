@@ -9,14 +9,18 @@ The insert each frame with 480 samples(10 ms), we can train the model and obtain
 ![alt text](img/1.jpg)
 
 1. Fully connected model
-![alt text] img/3.jpg
+![alt text](img/3.jpg)
 3. Feature model(Data + MFCC)
-![alt text] img/4.jpg
+![alt text](img/4.jpg)
 5. 1D Convolutional Neural Network
-![alt text] img/6.jpg
+![alt text](img/6.jpg)
 7. 2D Convolutional Neural Network
-![alt text] img/2.jpg
+![alt text](img/2.jpg)
 6. Transfer Learning with VGG19 model
+7. Crepe package provided in Python
+![alt text](img/56.jpg)
+
+The result of the trained model is given below
 
 
 All the examples are shown with the two test data in the folder. 
