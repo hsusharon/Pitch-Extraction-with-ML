@@ -9,8 +9,16 @@ The insert each frame with 480 samples(10 ms), we can train the model and obtain
 ![alt text](img/1.jpg)
 
 1. Fully connected model
-2. Feature model(Data + MFCC)
-3. 1D Convolutional Neural Network
-4. 2D Convolutional Neural Network
-5. Transfer Learning with VGG19 model
+![alt text] img/3.jpg
+3. Feature model(Data + MFCC)
+![alt text] img/4.jpg
+5. 1D Convolutional Neural Network
+![alt text] img/6.jpg
+7. 2D Convolutional Neural Network
+![alt text] img/2.jpg
+6. Transfer Learning with VGG19 model
 
+
+All the examples are shown with the two test data in the folder. 
+test.wav is a female speaker saying "Don't ask me to carry an oily rug like that."
+test1.wav is a male speaker saying "The best way to learn is to solve extra problems."
