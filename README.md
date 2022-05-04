@@ -1,5 +1,5 @@
 # Pitch-Extraction-with-ML
-By training different ML model on Pitch extraction and see the how it performs
+By training different ML model on Pitch extraction and see the how it performs. It is suprisingly well.
 
 Dataset: PTDB-TUG Database
 
@@ -8,6 +8,7 @@ The insert each frame with 480 samples(10 ms), we can train the model and obtain
 
 ![alt text](img/1.jpg)
 
+The 6 different models trained in this experiment:
 1. Fully connected model
 3. Feature model(Data + MFCC)
 5. 1D Convolutional Neural Network
