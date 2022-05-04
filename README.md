@@ -19,6 +19,7 @@ The insert each frame with 480 samples(10 ms), we can train the model and obtain
 The result of the trained model is given below
 [image](img/5.jpg)
 
-All the examples are shown with the two test data in the folder
+All the examples are shown with the two test data in the folder.
 test.wav is a female speaker saying "Don't ask me to carry an oily rug like that."
 test1.wav is a male speaker saying "The best way to learn is to solve extra problems."
+Details and results are written in the report(report folder)
