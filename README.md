@@ -2,6 +2,7 @@
 By training different ML model on Pitch extraction and see the how it performs. It is suprisingly well.
 
 Dataset: PTDB-TUG Database
+https://www.spsc.tugraz.at/databases-and-tools/ptdb-tug-pitch-tracking-database-from-graz-university-of-technology.html
 
 All the code is in the Code folder and is named after different types of model experimented through this project
 The insert each frame with 480 samples(10 ms), we can train the model and obtain the pitch that will be assgined to this frame. 
