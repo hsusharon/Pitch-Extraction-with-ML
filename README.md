@@ -23,7 +23,7 @@ The 6 different models trained in this experiment:
 The result of the trained model is given below
 [image](img/5.jpg)
 
-Please arange all the files and folder in this matter in order to run the code.
+Please arange all the files and folder in this matter in order to run the code. \n
 --- Pitch extraction with ML
          |---
 
