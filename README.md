@@ -9,17 +9,17 @@ matliplot, sklearn, pytorch, signal, spectorgram, numpy, pandas
 
 Please arange all the files and folder in this matter in order to run the code.
 ```
---Pitch extraction with ML
-  |---My Voice(testing voice)
->>new_dataset(modified dataset)
->>pitch_demo(test file pitch detection with model)
->>spec_txt(spectorgram from the training dataset)
->>Test folder(two testing data to visulize the output of prediction)
->>>dpec_txt
->>>spectorgram
->>test_dataset(two testing dataset)
->>txtfile(labels for the training dataset)
->>weve_dataset(the PTDB-TUG database with all the wave files)
+|-- Pitch extraction with ML
+   |--- My Voice(testing voice)
+   |--- new_dataset(modified dataset)
+   |--- pitch_demo(test file pitch detection with model)
+   |--- spec_txt(spectorgram from the training dataset)
+   |--- Test folder(two testing data to visulize the output of prediction)
+        |--- spec_txt
+        |--- spectorgram
+   |--- test_dataset(two testing dataset)
+   |--- txtfile(labels for the training dataset)
+   |--- wave_dataset(the PTDB-TUG database with all the wave files)
 ```
 Run "Dataset Edit.ipynb" first to obtain a better training dataset.
 All the code is in the Code folder and is named after different types of model experimented through this project, and all the model parameters will be stored according to there names. 
