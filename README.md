@@ -14,9 +14,6 @@ Please arange all the files and folder in this matter in order to run the code.
    |--- new_dataset(modified dataset)
    |--- pitch_demo(test file pitch detection with model)
    |--- spec_txt(spectorgram from the training dataset)
-   |--- Test folder(two testing data to visulize the output of prediction)
-        |--- spec_txt
-        |--- spectorgram
    |--- test_dataset(two testing dataset)
    |--- txtfile(labels for the training dataset)
    |--- wave_dataset(the PTDB-TUG database with all the wave files)
