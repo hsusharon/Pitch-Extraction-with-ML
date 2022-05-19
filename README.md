@@ -24,8 +24,8 @@ The result of the trained model is given below
 [image](img/5.jpg)
 
 Please arange all the files and folder in this matter in order to run the code. \n
---- Pitch extraction with ML
-         |---
+> Pitch extraction with ML
+>>
 
 All the examples are shown with the two test data in the folder.
 test.wav is a female speaker saying "Don't ask me to carry an oily rug like that."
